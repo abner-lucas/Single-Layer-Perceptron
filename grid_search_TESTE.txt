@@ -1,0 +1,12 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para o TESTE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 6
+Épocas executadas       : 24
+Melhores pesos          : [-1.   1.   0.5]
+Acurácia                : 100.00%

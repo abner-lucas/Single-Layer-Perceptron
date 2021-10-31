@@ -1,0 +1,1628 @@
+Cenário experimental: OR
+Número de redes configuradas: 125
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 1ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [0.  0.5 0.5]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 2ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.34871886  7.64607206  7.65878528]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 3ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00690895 3.17509922 3.18356249]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 4ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.5  0.   0.25]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 5ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.5
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-150.    0.    0.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 6ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 3
+Épocas executadas       : 12
+Melhores pesos          : [0. 1. 1.]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 7ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.5
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.35858893  7.66557537  7.67800692]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 8ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.5
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00679384 3.18452804 3.19096397]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 9ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.5
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [5.00000000e-01 5.55111512e-17 2.50000000e-01]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 10ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.5
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-149.    1.    1.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 11ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 2
+Épocas executadas       : 8
+Melhores pesos          : [-0.02737885  0.22935422  0.27151932]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 12ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.5
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.35165906  7.6517351   7.6646599 ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 13ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.5
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00684544 3.18115942 3.18674187]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 14ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.5
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [5.00000000e-01 5.55111512e-17 2.50000000e-01]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 15ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.5
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-149.0601146     0.27902355    0.74911783]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 16ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 3
+Épocas executadas       : 12
+Melhores pesos          : [-0.22443643  0.55051434  0.38780077]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 17ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.5
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.35156571  7.65134622  7.66468635]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 18ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.5
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00692432 3.17478444 3.18163711]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 19ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.5
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.5  0.   0.25]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 20ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.5
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-149.88707449    0.23079257    0.37761362]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 21ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.5
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 2
+Épocas executadas       : 8
+Melhores pesos          : [-0.61684765  1.57804237  1.09871939]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 22ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.5
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.35857496  7.66578308  7.67774036]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 23ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.5
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00705821 3.16422659 3.17300855]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 24ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.5
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 5.00000000e-01 -5.55111512e-17  2.50000000e-01]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 25ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.5
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-150.44629736    0.65698468   -0.89318479]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 26ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.1
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [0.  0.1 0.1]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 27ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.1
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.65367034  4.36625101  4.37571579]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 28ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.1
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.03963195 2.2846605  2.2901393 ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 29ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.1
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.27777778 0.44444444 0.47222222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 30ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.1
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-30.   0.   0.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 31ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.1
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 12
+Épocas executadas       : 48
+Melhores pesos          : [-0.1  1.   1. ]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 32ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.1
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.69988146  4.45236234  4.46084452]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 33ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.1
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.03625373 2.3318631  2.3354725 ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 34ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.1
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.27777778 0.44444444 0.47222222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 35ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.1
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-29.   1.   1.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 36ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.1
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 8
+Épocas executadas       : 32
+Melhores pesos          : [-0.02895733  0.21172019  0.46002548]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 37ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.1
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.67088343  4.39954134  4.40612053]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 38ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.1
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.04012589 2.27554144 2.28641267]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 39ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.1
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.27777778 0.44444444 0.47222222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 40ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.1
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-29.5027762    0.12551273   0.49801865]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 41ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.1
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 11
+Épocas executadas       : 44
+Melhores pesos          : [-0.05126672  0.98890503  0.80544009]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 42ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.1
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.69818932  4.45188571  4.45501861]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 43ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.1
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.03741068 2.30719122 2.32776414]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 44ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.1
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.27777778 0.44444444 0.47222222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 45ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.1
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-29.24067606   0.13616857   0.79794066]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 46ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.1
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 1
+Épocas executadas       : 4
+Melhores pesos          : [-0.50819028  1.25082683  1.05863065]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 47ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.1
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.61605452  4.3168654   4.28654607]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 48ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.1
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.0419157  2.25930471 2.25711731]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 49ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.1
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.27777778 0.44444444 0.47222222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 50ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.1
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-28.55839286   0.47401659   0.48597814]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 51ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.001
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [0.    0.001 0.001]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 52ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.001
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.22413248 0.25234888 0.2523798 ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 53ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.001
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.41624517 0.315644   0.31577307]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 54ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.001
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.38003823 0.28549043 0.28563352]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 55ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.001
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-0.3  0.   0. ]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 56ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.001
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.7 1.  1. ]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 57ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.001
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.87303325 1.05144664 1.05145059]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 58ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.001
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.81253966 1.01469835 1.01469944]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 59ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.001
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.33423344 0.59586778 0.59579519]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 60ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.001
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.7 1.  1. ]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 61ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.001
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.42328644 0.89161833 0.76584614]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 62ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.001
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.38341113 0.39872769 1.09900227]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 63ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.001
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.37946711 0.8429522  0.67258379]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 64ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.001
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.14245343 0.67624831 0.67987327]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 65ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.001
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-0.26049778  0.27668569  0.65576705]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 66ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.001
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.12770095 0.72482302 0.28288179]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 67ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.001
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.65563247 0.38808796 0.18085817]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 68ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.001
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.32295216 0.65341762 0.72354405]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 69ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.001
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.1247742  0.59128982 0.61931748]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 70ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.001
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.54564183 0.6249176  0.41667361]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 71ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.001
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.54473022 -0.16098734 -0.19195293]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 72ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.001
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.34969584 -1.47404368  0.83158832]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 73ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.001
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.85642729  0.58208261 -0.77115349]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 74ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.001
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-0.34590366  0.72648529  1.05358137]
+Acurácia                : 25.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 75ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.001
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-1.11331858 -0.08846649 -0.24799803]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 76ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.2
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [0.  0.2 0.2]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 77ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.2
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.38110231  5.7506252   5.76215978]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 78ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.2
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.01842508 2.67917346 2.68579435]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 79ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.2
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.3125 0.375  0.4375]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 80ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.2
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-60.   0.   0.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 81ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.2
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 7
+Épocas executadas       : 28
+Melhores pesos          : [-0.2  1.   1. ]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 82ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.2
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.40509721  5.79707991  5.80798984]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 83ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.2
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.01763112 2.70244205 2.70723336]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 84ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.2
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.3125 0.375  0.4375]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 85ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.2
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-59.   1.   1.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 86ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.2
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 6
+Épocas executadas       : 24
+Melhores pesos          : [-0.10078989  0.69398419  0.84073489]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 87ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.2
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.39323325  5.77183472  5.78763742]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 88ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.2
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.01767777 2.70258278 2.70440121]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 89ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.2
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.3125 0.375  0.4375]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 90ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.2
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-59.10769617   0.67408465   0.64999397]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 91ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.2
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 3
+Épocas executadas       : 12
+Melhores pesos          : [-0.02691077  0.20408817  0.04062595]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 92ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.2
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.40788269  5.79974241  5.81609775]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 93ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.2
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.01831494 2.67790939 2.69324552]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 94ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.2
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.3125 0.375  0.4375]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 95ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.2
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-59.74003242   0.64083666   0.29630946]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 96ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.2
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 9
+Épocas executadas       : 36
+Melhores pesos          : [-0.17538933  0.34978877  0.25026183]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 97ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.2
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.42903748  5.84095518  5.85632151]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 98ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.2
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.0121214  2.69631135 3.231759  ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 99ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.2
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.3125 0.375  0.4375]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 100ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.2
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-61.38975986   2.11445154   0.37861705]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 101ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.9
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [0.  0.9 0.9]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 102ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.9
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.96281119  8.86311027  8.87607578]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 103ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.9
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.0037341  3.48376098 3.49367034]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 104ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.9
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.99998862 -1.28384217 -0.41617017]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 105ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : zeros
+Taxa de aprendizado     : 0.9
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-270.    0.    0.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 106ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.9
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 3
+Épocas executadas       : 12
+Melhores pesos          : [-0.8  1.   1. ]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 107ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.9
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.96856521  8.87454128  8.88734469]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 108ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.9
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00370429 3.48883508 3.49658516]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 109ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.9
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 1.00000623 -1.14515445 -0.5548388 ]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 110ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : uns
+Taxa de aprendizado     : 0.9
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-269.    1.    1.]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 111ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.9
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 2
+Épocas executadas       : 8
+Melhores pesos          : [-0.52097522  0.88264646  0.87598937]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 112ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.9
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.96833926  8.87417445  8.88681862]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 113ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.9
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.0037274  3.48486345 3.49435785]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 114ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.9
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 1.00000378 -1.12505166 -0.57494424]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 115ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios
+Taxa de aprendizado     : 0.9
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-2.69748345e+02  6.77698492e-02  2.90620977e-01]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 116ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.9
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 4
+Épocas executadas       : 16
+Melhores pesos          : [-0.88692139  1.75752685  1.66821562]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 117ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.9
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.96804236  8.87356981  8.88625222]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 118ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.9
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.00373176 3.48453838 3.49351212]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 119ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.9
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.99999197 -1.24618565 -0.45382305]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 120ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_uniformes
+Taxa de aprendizado     : 0.9
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-269.4357921     0.94777792    0.85639591]
+Acurácia                : 75.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 121ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.9
+Função de ativacao      : step
+Limiar                  : 1
+Ciclos executados       : 6
+Épocas executadas       : 24
+Melhores pesos          : [-0.2507613   0.53655684  0.42654269]
+Acurácia                : 100.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 122ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.9
+Função de ativacao      : sigmoid
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-3.96421458  8.86590781  8.87881435]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 123ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.9
+Função de ativacao      : tanh
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [0.0036699  3.48684599 3.50809098]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 124ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.9
+Função de ativacao      : relu
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [ 0.99999385 -1.13586961 -0.56413706]
+Acurácia                : 0.00%
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Parâmetros selecionados para a 125ª rede
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Número de entradas      : 2
+Inicializador de pesos  : aleatorios_normal
+Taxa de aprendizado     : 0.9
+Função de ativacao      : softmax
+Limiar                  : 1
+Ciclos executados       : 300
+Épocas executadas       : 1200
+Melhores pesos          : [-270.81903446    1.46425568    0.92453463]
+Acurácia                : 75.00%
+
